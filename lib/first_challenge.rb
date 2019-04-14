@@ -14,7 +14,7 @@ def first_challenge
   }
 
   #your code here
-  contacts.delete 
+  contacts.delete(strawberry)
   contacts
   #remember to return your newly altered contacts hash!
   contacts
